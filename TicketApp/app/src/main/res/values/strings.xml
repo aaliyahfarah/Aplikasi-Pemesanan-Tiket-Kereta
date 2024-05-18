@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TicketApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_promo_screen">PromoScreen</string>
+    <string-array name="nama_stasiun">
+        <item>Adisoemarmo (SMO)</item>
+        <item>Ambarawa (ABR)</item>
+        <item>Babat (BBT)</item>
+        <item>Banjar (BJR)</item>
+        <item>Bandung (BD)</item>
+        <item>Bangil (BG)</item>
+        <item>Banyuwangi KOTA (BWI)</item>
+        <item>Batu Ceper (BPR)</item> <!-- Empty items if necessary -->
+        <item>Bekasi (BKS)</item>
+        <item>Benteng (BET)</item>
+        <item>Blitar (BL)</item>
+        <item>Blora (BLA)</item>
+        <item>Bojonegoro (BJ)</item>
+        <item>Bojonggede (BJD)</item>
+        <item>Bogor (BOO)</item>
+        <item>Brebes (BB)</item>
+        <item>Cepu (CU)</item>
+        <item>Cikampek (CKP)</item>
+        <item>Cirebon (CN)</item>
+        <item>Cirebon Prujakan (CNP)</item>
+        <item>Gambir (GMR)</item>
+        <item>Jakarta Kota (JAKK)</item>
+        <item>Jatinegara (JNG)</item>
+        <item>Jember (JR)</item>
+        <item>Jombang (JG)</item>
+        <item>Karawang (KW)</item>
+        <item>Kediri (KD)</item>
+        <item>Ketapang Banyuwangi (KTG)</item>
+        <item>Malang (ML)</item>
+        <item>Manggarai (MRI)</item>
+        <item>Pasar Minggu (PSM)</item>
+        <item>Pasar Senen (PSE)</item>
+        <item>Semarang Tawang (SMT)</item>
+        <item>Solo Balapan (SLO)</item>
+        <item>Surabaya Gubeng (SGU)</item>
+        <item>Surabaya Pasarturi (SBI)</item>
+        <item>Tegal (TG)</item>
+        <item>Yogyakarta (YK)</item>
+    </string-array>
+    <string-array name="jumlah_penumpang">
+        <item>1 Orang</item>
+        <item>2 Orang</item>
+        <item>3 Orang</item>
+        <item>4 Orang</item>
+        <item>5 Orang</item>
+        <item>6 Orang</item>
+        <item>7 Orang</item>
+        <item>8 Orang</item>
+    </string-array>
+    <string name="title_activity_result_activity.kt">ResultActivity.kt</string>
+    <string name="title_activity_search_result">SearchResultActivity</string>
+    <string name="title_activity_booking">BookingActivity</string>
+    <string name="title_activity_seat">SeatActivity</string>
+    <string name="title_activity_final">FinalActivity</string>
+</resources>
